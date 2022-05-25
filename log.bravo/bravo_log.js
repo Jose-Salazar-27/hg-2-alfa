@@ -1,1 +1,1 @@
-consolo.log(bravo)
+consolo.log(bravo).
